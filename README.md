@@ -29,50 +29,50 @@ This project is designed as a comprehensive business intelligence solution to he
 
 ## 🧠 Key Insights & Findings
 ### 📌 1. Churn Metrics
-  • **Total Customers**: ~7,040
+  *  **Total Customers**: ~7,040
 
-• **Churned Customers**: 1,870
+  *  **Churned Customers**: 1,870
 
-• **Churn Rate**: 26.54% — over a quarter of customers have left, signaling a significant issue.
+  * **Churn Rate**: 26.54% — over a quarter of customers have left, signaling a significant issue.
 
 ### 💰 2. Revenue Overview
-• **Total Revenue** (Total Charges): $16.06M
+  * **Total Revenue** (Total Charges): $16.06M
 
-• **Monthly Charges**: $456.12K
+  * **Monthly Charges**: $456.12K
 
-• **Average Monthly Charges**: $64.76
+  * **Average Monthly Charges**: $64.76
 
-• **Phone** and **Internet Services** drive the majority of the revenue.
+  * **Phone** and **Internet Services** drive the majority of the revenue.
 
-• **Online Security** and **Tech Support** have the lowest adoption and revenue.
+  * **Online Security** and **Tech Support** have the lowest adoption and revenue.
 
 ### ⏳ 3. Contract & Tenure Impact
-• **Two-Year Contracts** show highest customer retention and highest revenue.
+  * **Two-Year Contracts** show highest customer retention and highest revenue.
 
-• **Month-to-Month** Contracts show the highest churn.
+  * **Month-to-Month** Contracts show the highest churn.
 
-• **Tenure 0–2 Years customers** churn most, while **5–6 Year customers** are most loyal.
+  * **Tenure 0–2 Years customers** churn most, while **5–6 Year customers** are most loyal.
 
 ### 💳 4. Payment Method Trends
-• Customers using **Electronic Check** are more likely to churn.
+  * Customers using **Electronic Check** are more likely to churn.
 
-• Those using **Credit Card** or **Bank Transfer** show higher loyalty.
+  * Those using **Credit Card** or **Bank Transfer** show higher loyalty.
 
-• Transitioning to more reliable payment methods could reduce churn.
+  * Transitioning to more reliable payment methods could reduce churn.
 
 ### 👥 5. Demographic Breakdown
-• Customers with **partners** and **no dependents** form the largest base.
+  * Customers with **partners** and **no dependents** form the largest base.
 
-• **Unpartnered customers** with **dependents** churn at higher rates.
+  * **Unpartnered customers** with **dependents** churn at higher rates.
 
-• Demographics provide useful segmentation for retention targeting.
+  * Demographics provide useful segmentation for retention targeting.
 
 ### 🛠️ 6. Support Activity
-• **Technical Tickets** Opened: 2,960
+  * **Technical Tickets** Opened: 2,960
 
-• **Administrative Tickets**  Opened: 3,630
+  * **Administrative Tickets**  Opened: 3,630
 
-• High volume may reflect dissatisfaction, requiring support process review.
+  * High volume may reflect dissatisfaction, requiring support process review.
 
   ![Churned customers](https://github.com/user-attachments/assets/22610d7f-08a8-44d1-8558-892648de6c6d)
 
