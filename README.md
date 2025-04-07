@@ -1,4 +1,4 @@
-# 📊 Customer-Retention-Analysis
+# 📊 Customer-Retention-Analysis-Dashboard
 ## 🧾 Project Overview
 **Customer retention** is critical for long-term business success. This Power BI project aims to provide a deep, data-driven understanding of customer churn patterns for a telecommunications company. Through **interactive visuals**, **calculated DAX measures**, and **KPIs**, the dashboard identifies **churn drivers**, **customer behavior trends**, and **revenue-impacting** factors.    
 This project is designed as a comprehensive business intelligence solution to help stakeholders make informed, strategic decisions that reduce churn and increase profitability.
